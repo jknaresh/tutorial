@@ -1,3 +1,7 @@
+<h6>Requirements</h6>
+pip install djangorestframework<br/>
+pip install pygments  <br/>
+
 http://127.0.0.1:8000/
 
 Using firebug
