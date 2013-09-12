@@ -2,6 +2,10 @@
 pip install djangorestframework<br/>
 pip install pygments  <br/>
 
+manage.py syncdb
+
+manage.py runserver
+
 http://127.0.0.1:8000/
 
 Using firebug
