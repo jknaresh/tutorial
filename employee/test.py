@@ -16,7 +16,7 @@ def post_thum(object_id,image_file):
     
 if __name__=="__main__":
     if (len(sys.argv) < 2):
-        print "Usage %s [instance hash] [object id] [image]"
+        print "Usage %s [object id] [image]"
         exit
     obj_id=sys.argv[1]
     image=sys.argv[2]
